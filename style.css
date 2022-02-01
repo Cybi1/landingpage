@@ -1,0 +1,204 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.verx {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    background-color: #1F2937;
+}
+
+.verxlogolink {
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
+    align-items: baseline;
+    color: white;
+}
+
+.header {
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.lh {
+    display: flex;
+    list-style-type: none;
+    width: 400px;
+    justify-content: space-around;
+}
+
+.rightverx {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+    background-color: gray;
+}
+
+.verxtwo {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    align-content: space-around;
+}
+
+.verxtwoone {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-left: 15px;
+}
+
+.one {
+    font-weight: bold;
+    color: white;
+    font-size: 35px;
+}
+
+.two {
+    color: white;
+}
+
+.button {
+    display: flex;
+    justify-content: flex-start;
+}
+.titledva {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+}
+
+.dvastr {
+    width: 120px;
+    height: 160px;
+}
+
+.dva {
+    display: flex;
+    flex-direction: column;
+}
+
+.imgtext {
+    display: flex;
+    flex-direction: row;
+}
+
+.dvas {
+    display: flex;
+    flex-direction: row;
+    height: 100px;
+    width: 100px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid;
+    border-color: powderblue;
+    border-radius: 10px;
+}
+
+.textimg {
+    display: flex;
+   
+}
+
+.imgtextr {
+    display: flex; 
+    flex: 1;
+    flex-direction: row;
+    font-size: 17px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
+.cit {
+    display: flex;
+    margin: 25px;
+    flex-direction: column;
+    background-color: gray;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.citata {
+    display: flex;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.thor {
+    display: flex;
+    flex-direction: row-reverse;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.ponel {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.popitka {
+    display: flex;
+    height: 50px;
+    width: 550px;
+    padding: 10px;
+    border: solid;
+    border-color: #3882f6;
+    background-color: #3882f6;
+    border-radius: 10px;
+    align-items: center;
+    justify-items: center;
+}
+
+.leftponel {
+    color: white;
+}
+
+.buttonsing {
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.but {
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid;
+    border-radius: 8px;
+    height: 28px;
+    width: 85px;    
+}
+
+.niz {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #444;
+    color: white;
+    text-align: center;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.butone {
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid;
+    border-radius: 8px;
+    height: 28px;
+    width: 85px; 
+}
